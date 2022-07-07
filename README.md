@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="mailto:tarcisio.jobs@outlook.com" alt="Outlook">
-  <img src="https://img.shields.io/badge/-Outlook-0000ff?style=flat-square&labelColor=0000ff&logo=microsoft&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&labelColor=0078D4&logo=microsoft&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
 <a href="https://www.linkedin.com/in/devtvas/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
